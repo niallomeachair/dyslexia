@@ -1,4 +1,7 @@
-/* Asterisk wildcard selector to override styles added by the browser */
+/* Google Fonts Import */
+     @import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans:ital,wght@0,300..700;1,300..700&family=Lexend+Deca:wght@100..900&display=swap');
+     
+     /* Asterisk wildcard selector to override styles added by the browser */
 * {
     padding: 0;
     margin: 0;
@@ -12,6 +15,7 @@ body {
     flex-direction: column;
     /* Generic Project Styles */
     color: rgb(3, 22, 22);
+    font-family: 'lexend-deca' , sans-serif;
 }
 
 /* Header */
@@ -19,6 +23,9 @@ header {
     background-color: lightcoral;
 }
 
+h1 {
+    font-family: 'inclusive-sans' , sans-serif;
+}
 /* Main Content */
 main {
     background-color: lightblue;
@@ -29,4 +36,28 @@ main {
 /* Footer */
 footer {
     background-color: orange;
+}
+
+/* Lexend Deca Classes */
+
+/* <weight>: Use a value from 100 to 900
+<uniquifier>: Use a unique and descriptive class name */
+
+.lexend-deca {
+  font-family: "Lexend Deca", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* Inclusive Sans Classes */
+
+/* <weight>: Use a value from 300 to 700
+ <uniquifier>: Use a unique and descriptive class name */
+
+.inclusive-sans {
+  font-family: "Inclusive Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
 }
