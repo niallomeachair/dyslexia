@@ -14,18 +14,38 @@ body {
     display: flex;
     flex-direction: column;
     /* Generic Project Styles */
-    color: rgb(3, 22, 22);
+    color: rgb(0, 57, 57);
     font-family: 'lexend-deca' , sans-serif;
 }
 
 /* Header */
 header {
-    background-color: lightcoral;
+    background-color: #ffffff;
+    padding: 0 1rem;
+    position:fixed;
+    z-index: 99;
+    width: 100%;
 }
 
 h1 {
     font-family: 'inclusive-sans' , sans-serif;
 }
+
+/* Menu */
+#menu {
+    text-size: 110%;
+    letter-spacing: 3px;
+    list-style-type: none;
+}
+
+#menu li {
+    margin-bottom: 1em;
+}
+
+.active {
+    border-bottom: 1px solid rgb(0, 57, 57);
+}
+
 /* Main Content */
 main {
     background-color: lightblue;
