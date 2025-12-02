@@ -96,7 +96,7 @@ main {
 
 /* Footer */
 footer {
-    background-color: orange;
+    background-color: #ffffff;
 }
 
 /* Media query: tablets and larger (768px and up) */
@@ -134,10 +134,26 @@ footer {
         margin-top: 54px;
     }
 }
+
+/* Footer */
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 200%;
+    padding: 5%;
+    color: rgb(0, 57, 57);
+}
+
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
     #menu a:hover{
-        border-bottom: 1px solid #3a3a3a;
+        border-bottom: 1px solid rgb(0, 57, 57);
     }
 }
 /* Lexend Deca Classes */
