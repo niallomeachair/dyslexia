@@ -94,6 +94,13 @@ main {
     margin-top: 28px;
 }
 
+/* Homepage image section */
+#homepage-image {
+    height: 600px;
+    width: 100%;
+    background: url("../images/woman-brain.jpg") no-repeat center center/cover;
+}
+
 /* Footer */
 footer {
     background-color: #ffffff;
