@@ -25,10 +25,24 @@ header {
     position:fixed;
     z-index: 99;
     width: 100%;
-}
+    box-shadow: 0 2px 2px #3a3a3a;
+
+    header a {
+        text-decoration: none;
+        color: inherit;
+    }
+
+    
+
+    #logo {
+        font-size: 170%;
+        font-weight: bold;
+    }
 
 h1 {
     font-family: 'inclusive-sans' , sans-serif;
+    
+
 }
 
 /* Menu */
@@ -36,6 +50,7 @@ h1 {
     text-size: 110%;
     letter-spacing: 3px;
     list-style-type: none;
+    text-transform: none;
 }
 
 #menu li {
