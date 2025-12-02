@@ -21,6 +21,7 @@ body {
 h1, h2, h3, h4, {
     font-family: 'inclusive-sans' , sans-serif;
     font-weight: bold;
+    margin-left: 10px;
 }
 
 #logo {
@@ -93,11 +94,28 @@ nav {
 
 /* Main Content */
 main {
-    background-color: aquamarine;
+    background-color: #c8faffc7;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 28px;
+    margin: 0 10px 0 10px;
 }
+
+#check-yourself {
+    margin: 40px 10px 20px 10px;
+}
+
+ul li {
+    margin: 20px;
+   }
+
+p {
+        font-size: 100%;
+        font-weight: normal;
+        font-family: lexend-deca, sans-serif;
+        margin-bottom: 1rem;
+        padding: 4px 10px 10px 10px;
+    }
 
 /* Homepage image section */
 #homepage-image {
@@ -111,9 +129,9 @@ main {
     background-color: rgba(1, 93, 252, 0.8);
     font-size: 130%;
     position: absolute;
-    bottom: 50px;
+    bottom: 70px;
     width: 60%;
-    min-height: 200px;
+    min-height: 150px;
     padding-top: 40px;
     padding-left: 10px;
 }
@@ -160,6 +178,18 @@ footer {
     main {
         /* Push main content down to accommodate larger header */
         margin-top: 54px;
+    }
+
+    h1,h2,h3,h4 {
+        paddiing-left: 20px;
+    }
+
+    p {
+        font-size: 100%;
+        font-weight: normal;
+        font-family: lexend-deca, sans-serif;
+        margin-bottom: 1rem;
+        padding: 4px 20px 20px 20px;
     }
 
     /* Homepage image section */
