@@ -100,9 +100,14 @@ main {
     margin-top: 28px;
     margin: 0 10px 0 10px;
 }
-
+#audio {
+    margin-top:50px;
+}
 #check-yourself {
     margin: 40px 10px 20px 10px;
+}
+.audio-brain{
+    height: 300px;
 }
 
 ul li {
@@ -129,7 +134,7 @@ p {
     background-color: rgba(1, 93, 252, 0.8);
     font-size: 130%;
     position: absolute;
-    bottom: 70px;
+    top: 350px;
     width: 60%;
     min-height: 150px;
     padding-top: 40px;
