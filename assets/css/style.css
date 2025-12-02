@@ -10,7 +10,7 @@
 
 /* General Styles */
 body {
-    min-height: 1200vh;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     /* Generic Project Styles */
@@ -39,16 +39,11 @@ header {
         text-decoration: none;
         color: inherit;
     }
-
-    #logo {
-        font-size: 150%;
-        font-weight: bold;
-    }
-
+}
 h1 {
     font-family: 'inclusive-sans' , sans-serif;
-    
-
+    font-size: 150%;
+    font-weight: bold;
 }
 
 /* Menu */
@@ -56,7 +51,6 @@ h1 {
     text-size: 110%;
     letter-spacing: 3px;
     list-style-type: none;
-    text-transform: none;
 }
 
 #menu li {
@@ -97,6 +91,7 @@ main {
     background-color: aquamarine;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
+    margin-top: 28px;
 }
 
 /* Footer */
