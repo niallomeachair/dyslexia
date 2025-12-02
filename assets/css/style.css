@@ -26,6 +26,9 @@ header {
     z-index: 99;
     width: 100%;
     box-shadow: 0 2px 2px #3a3a3a;
+    display:flex;
+    justify-content: space-between;
+    align-items: baseline;
 
     header a {
         text-decoration: none;
@@ -38,7 +41,7 @@ header {
     }
 
     #logo {
-        font-size: 170%;
+        font-size: 150%;
         font-weight: bold;
     }
 
@@ -73,6 +76,20 @@ nav {
     padding:0 1rem;
     box-shadow: 0 2px 2px #3a3a3a;
     display: none;
+    top: 100%;
+}
+
+/* Nav Toggle */
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size:1.5rem;
 }
 
 /* Main Content */
