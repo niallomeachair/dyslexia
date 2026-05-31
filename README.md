@@ -1,7 +1,7 @@
 # Understanding Dyslexia
 
 ## Description
-The Understanding Dyslexia site is a resource for navigating the possibility of realising dyslexia is a reality for a person in adulthood.
+The Understanding Dyslexia site is a resource for navigating the possibility of realising dyslexia is a reality for a person in adulthood. The inspitation behind this is the very recent story of the website developer and the realisation that there must be many more people who could benefit from the same new knowledge that an assessment would bring to them.
 
 ## Features
 1. Navigation
