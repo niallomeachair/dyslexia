@@ -3,6 +3,7 @@
 <img width="1437" height="815" alt="undersanding-dyslexia-screenshot2" src="https://github.com/user-attachments/assets/8164dd0c-25c6-43cf-8fea-38535c46277c" />
 <img width="1438" height="817" alt="undersanding-dyslexia-screenshot3" src="https://github.com/user-attachments/assets/c1193a33-6057-4cce-9510-a2c71136cb8e" />
 <img width="304" height="629" alt="undersanding-dyslexia-mobile optimisation screenshot" src="https://github.com/user-attachments/assets/13f5e6a1-2448-4037-9e4a-51d30eafa7cf" />
+
 # Understanding Dyslexia
 
 ## Description
