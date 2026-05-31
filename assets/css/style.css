@@ -40,12 +40,12 @@ header {
     display:flex;
     justify-content: space-between;
     align-items: baseline;
+}
 
-    header a {
+header a {
         text-decoration: none;
         color: black;
     }
-}
 
 /* Menu */
 #menu {
