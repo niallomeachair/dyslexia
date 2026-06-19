@@ -18,6 +18,15 @@ The site was checked with https://ami.responsivedesigns.is
 2. My Journey
 3. Resources
 
+## Testing
+Tested in Chrome, Edge, Firefox and Safari.
+Confirmed responsive on all devices and screensizes using devtools device toolbar.
+Confirmed functionality of all headers and menus.
+Links tested and external links open in new windows.
+W3C Html validator tested, passed and tagged.
+V3C CSS validator tested and passed.
+![lighthouse-devtools-screenshot](https://github.com/niallomeachair/dyslexia/blob/7dd0012f375acd231d30997b2b5b85735aa7b7b6/lighthouse-devtools-screenshot.png)
+
 ## How to View the Project
 - [View the deployed website] (https://niallomeachair.github.io/dyslexia/)
 
