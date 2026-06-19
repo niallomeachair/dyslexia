@@ -25,11 +25,16 @@ Confirmed functionality of all headers and menus.
 Links tested and external links open in new windows.
 W3C Html validator tested, passed and tagged.
 V3C CSS validator tested and passed.
+Lighthouse assessed to high scores for accessibility.
 ![lighthouse-devtools-screenshot](https://github.com/niallomeachair/dyslexia/blob/7dd0012f375acd231d30997b2b5b85735aa7b7b6/lighthouse-devtools-screenshot.png)
+
+## Deployment
+Deployed with Github. Built using Visual Studio Code with regular commit and description events.
 
 ## How to View the Project
 - [View the deployed website] (https://niallomeachair.github.io/dyslexia/)
 
 ## Credits
 - The code for the social media icons are from [Font Awesome](https://fontawesome.com/)
+- Images from [Pixabay](https://pixabay.com/)
 
