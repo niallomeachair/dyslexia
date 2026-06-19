@@ -9,6 +9,10 @@
 ## Description
 The Understanding Dyslexia site is a resource for navigating the possibility of realising dyslexia is a reality for a person in adulthood. The inspitation behind this is the very recent story of the website developer and the realisation that there must be many more people who could benefit from the same new knowledge that an assessment would bring to them.
 
+## Cross Device Functionality
+The site was checked with https://ami.responsivedesigns.is
+![am-i-responsive-image](https://github.com/niallomeachair/dyslexia/blob/f468326c9c4ea8207f09abc06ddbc20b9f3d3b68/ami.responsivedesign-screenshot.png)
+
 ## Features
 1. Navigation
 2. My Journey
