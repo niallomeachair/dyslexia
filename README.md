@@ -7,7 +7,7 @@
 # Understanding Dyslexia
 
 ## Description
-The Understanding Dyslexia site is a resource for navigating the possibility of realising dyslexia is a reality for a person in adulthood. The inspitation behind this is the very recent story of the website developer and the realisation that there must be many more people who could benefit from the same new knowledge that an assessment would bring to them.
+The key goal of the Understanding Dyslexia site is a resource for navigating the possibility of realising dyslexia is a reality for a person in adulthood. The inspitation behind this is the very recent story of the website developer and the realisation that there must be many more people who could benefit from the same new knowledge that an assessment would bring to them. It is there to help navigate, promote thought and possibly inspire. Endless life failure in acedemia and the genuine struggle to change that narative is the motivation behind building this resource as even though the site's developer succeeded in many areas with ease where others have struggled, they genuinely struggle more than most where others succeed with ease.
 
 ## Cross Device Functionality
 The site was checked with https://ami.responsivedesigns.is
@@ -29,7 +29,10 @@ Lighthouse assessed to high scores for accessibility.
 ![lighthouse-devtools-screenshot](https://github.com/niallomeachair/dyslexia/blob/7dd0012f375acd231d30997b2b5b85735aa7b7b6/lighthouse-devtools-screenshot.png)
 
 ## Deployment
-Deployed with Github. Built using Visual Studio Code with regular commit and description events.
+The site was built locally in Visual Studio Code. 
+Code changes and updates were committed and pushed the to a github repository.
+Github pages builds and publishess the site.
+It is live and can be viewed online.
 
 ## How to View the Project
 - [View the deployed website] (https://niallomeachair.github.io/dyslexia/)
